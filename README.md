@@ -19,8 +19,7 @@
 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-    
+    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)    
     <!-- PORCENTAJES -->
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  <!-- ESTADISTICAS -->
