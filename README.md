@@ -23,6 +23,8 @@
     <!-- PORCENTAJES -->
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  <!-- ESTADISTICAS -->
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) -->
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) 
  ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)
 [![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
