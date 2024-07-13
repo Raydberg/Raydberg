@@ -21,10 +21,11 @@
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)    
     <!-- PORCENTAJES -->
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+    [![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)
  <!-- ESTADISTICAS -->
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) 
- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)
-[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)
--->
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) -->
+ <!-- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)-->
+
+
 
