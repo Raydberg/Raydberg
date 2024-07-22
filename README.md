@@ -2,7 +2,7 @@
  ![Banner RayDev](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
 
-.
+Un simple programador:)
 ## TECNOLOGIAS💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
