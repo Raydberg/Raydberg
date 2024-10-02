@@ -37,10 +37,9 @@ Un simple programador:)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
  <!-- PORCENTAJES -->
  <hr>
- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark" alt="Top Langs">
-  </p>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)]
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark" alt="Top Langs"></p>
+ 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--> 
 <!--[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ESTADISTICAS -->
