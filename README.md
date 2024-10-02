@@ -39,6 +39,7 @@ Un simple programador:)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 <!--[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ESTADISTICAS -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)]
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) -->
 <!-- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)-->
 
