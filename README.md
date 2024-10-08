@@ -37,7 +37,10 @@ Un simple programador:)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
  <!-- PORCENTAJES -->
  <hr>
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark" alt="Top Langs"></p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=compact&&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="Top Langs">
+ </p>
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--> 
