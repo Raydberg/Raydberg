@@ -2,7 +2,7 @@
  ![Banner RayDev](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
 
-Un simple programador:)
+Un simple Desarrollador con una habilidad especial para convertir ideas en soluciones de software eficientes. Mi enfoque está en el desarrollo web, utilizando una mezcla de tecnologías modernas y herramientas de desarrollo robustas.
 ## TECNOLOGIAS💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
