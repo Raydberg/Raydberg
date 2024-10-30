@@ -35,11 +35,19 @@ Un simple programador:)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/raydbergchuquival)
+
  <!-- PORCENTAJES -->
  <hr>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=compact&&theme=dark" alt="Top Langs">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raydberg&theme=dark" alt="Top Langs">
   <img src="https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="Top Langs">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raydberg&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="Top Langs">
+
+  
+ 
  </p>
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)
