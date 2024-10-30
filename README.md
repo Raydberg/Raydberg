@@ -46,10 +46,10 @@ Un simple programador:)
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raydberg&theme=dark" alt="Top Langs">
 
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub Stats" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raydberg&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=9745f5&ring=9745f5&fire=ff8c00&currStreakNum=9745f5&sideNums=9745f5&currStreakLabel=9745f5&sideLabels=9745f5&dates=ffffff&theme=dark" alt="GitHub Streak" width="45%">
-</p>
+
  
  </p>
  
