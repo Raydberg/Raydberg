@@ -25,6 +25,7 @@ Un simple Desarrollador con una habilidad especial para convertir ideas en soluc
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
 
 
 <!--![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -81,5 +82,5 @@ Un simple Desarrollador con una habilidad especial para convertir ideas en soluc
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&show_icons=true&theme=dark) -->
 <!-- ![Raydberg GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydberg&&theme=tokyonight)-->
 
-
+<!--  https://github.com/alexandresanlim/Badges4-README.md-Profile    -->
 
