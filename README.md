@@ -2,8 +2,8 @@
  ![Profile views](https://komarev.com/ghpvc/?username=Raydberg&style=square&color=blueviolet)
  ![Banner RayDev](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
+👋 ¡Hola! Soy Raydberg, desarrollador Full Stack me escpecializo en convertir ideas en soluciones de software eficientes y escalables con Java (Spring Boot), .NET (ASP.NET Core/EF Core) y Angular. Me apasiona automa­tizar pipelines CI/CD (GitHub Actions) con Docker en Azure, optimizando despliegues,promoviendo prácticas ágiles (SCRUM) , utilizando una mezcla de tecnologías modernas y herramientas de desarrollo robustas
 
-Un simple Desarrollador con una habilidad especial para convertir ideas en soluciones de software eficientes. Mi enfoque está en el desarrollo web, utilizando una mezcla de tecnologías modernas y herramientas de desarrollo robustas.
 ## TECNOLOGIAS💻
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)-->
 <!--![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)-->
