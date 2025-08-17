@@ -82,14 +82,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="public/dark.svg"
+    srcset="images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="public/light.svg"
+    srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="public/light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--> 
 <!--[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ESTADISTICAS -->
