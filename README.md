@@ -78,6 +78,18 @@
  </p>
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raydberg&theme=github-compact)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="public/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="public/light.svg"
+  />
+  <img alt="Breakout Game" src="public/light.svg" />
+</picture>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydberg&layout=donut&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--> 
 <!--[![Raydberg WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raydberg)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- ESTADISTICAS -->
