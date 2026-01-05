@@ -2,7 +2,7 @@
  ![Profile views](https://komarev.com/ghpvc/?username=Raydberg&style=square&color=blueviolet)
  ![Banner RayDev](https://github.com/vc743/vc743/assets/88216894/2415caf0-5e36-43e4-be9c-17ca25810b3b)
 
-👋 ¡Hola! Soy Raydberg, desarrollador Full Stack me especializo en convertir ideas en soluciones de software eficientes y escalables con tecnologias web modernas. Haciendo uso de  automa­tizaciones con pipelines CI/CD (GitHub Actions) con Docker en Azure, optimizando despliegues,promoviendo prácticas ágiles (SCRUM) , utilizando una mezcla de tecnologías modernas y herramientas de desarrollo robustas
+👋 ¡Hola! Soy Raydberg, desarrollador Full Stack me especializo en convertir ideas en soluciones de software eficientes y escalables con tecnologias web modernas. Haciendo uso de automa­tizaciones con pipelines de CI/CD optimizando despliegues y tiempos de respuesta. 
 
 ## TECNOLOGIAS💻
 
